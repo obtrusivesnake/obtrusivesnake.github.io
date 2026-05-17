@@ -78,7 +78,6 @@ function App() {
                                         href: "#private-lessons",
                                     },
                                     { label: "Events", href: "#community" },
-                                    { label: "Fitness", href: "#fitness" },
                                     { label: "About", href: "#about" },
                                 ].map((link) => (
                                     <a
@@ -91,10 +90,8 @@ function App() {
                                 ))}
                             </div>
 
-                            <div className="flex lg:hidden"></div>
-
                             {/* Desktop CTAs */}
-                            <div className="hidden lg:flex items-center gap-6">
+                            <div className="hidden md:flex items-center gap-6">
                                 <a
                                     href="tel:6023247119"
                                     className="text-sm text-stone-500 hover:text-white transition-colors"
@@ -379,13 +376,13 @@ function App() {
                                 <p className="text-stone-400 text-lg leading-relaxed mb-6">
                                     At Fatcat, we don't lock you into long-term
                                     commitments. Simply check tonight's schedule
-                                    and walk right in. We offer classes such as
+                                    and walk right in. We offer classes in
                                     Salsa, Bachata, West Coast and East Coast
                                     Swing, Argentine Tango, American and
-                                    International Ballroom, Line Dancing,
-                                    Arizona Two-Step, and more. Our classes are
-                                    for everyone, whether you're a complete
-                                    beginner or an experienced dancer.
+                                    International Ballroom, Line Dancing, and
+                                    Arizona Two-Step. Our classes are for
+                                    everyone, whether you're a complete beginner
+                                    or an experienced dancer.
                                 </p>
                                 <a
                                     href="#schedule"
