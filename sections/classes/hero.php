@@ -9,7 +9,7 @@
             Group Classes
         </h1>
         <p class="text-base text-stone-400 leading-relaxed max-w-xl mx-auto">
-            View our catalog of group classes at Fatcat Ballroom.
+            View our group class schedule at Fatcat Ballroom.
             Simply pick a class and walk in a few minutes before it starts.
             You can pay online, or come in and pay after your class.
         </p>

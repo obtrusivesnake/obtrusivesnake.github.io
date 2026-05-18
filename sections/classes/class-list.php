@@ -12,8 +12,9 @@ $classes = [
         "price_label" => "Free",
         "level" => "All Levels",
         "description" =>
-            "Start your week on the right foot with this social, beginner-friendly class. Learn two different styles of ballroom dancing in a relaxed and welcoming setting with a supportive community.",
-        "note" => null,
+            "Start your week on the right foot with this social, beginner-friendly class. Learn two different styles of ballroom dancing in a relaxed and welcoming setting with a supportive community. These lessons are completely free and are a great introduction to dance.",
+        "note" =>
+            "Followed by Keith&rsquo;s East Coast Swing and AZ Two-Step classes",
     ],
     [
         "day" => "Sunday",
@@ -24,8 +25,8 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "Get ready to move to some upbeat tunes! A fun, high-energy way to learn the fundamentals of this popular dance. Great for all levels and a great way to meet people.",
-        "note" => null,
+            "Get ready to move to some upbeat tunes! A fun, high-energy way to learn the fundamentals of this popular dance. The lesson is perfect for all levels and is a great way to meet people.",
+        "note" => "Followed by Keith&rsquo;s Arizona Two-Step class",
     ],
     [
         "day" => "Sunday",
@@ -36,19 +37,20 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "Get a feel for the rhythm of the West. Learn the essential steps of the Arizona Two-Step, a popular social dance you can use at any country event.",
-        "note" => null,
+            "Get a feel for the rhythm of the West. Learn the essential steps of the Arizona Two-Step, a popular social dance. It&rsquo;s an easy-to-learn dance that you can use at any country event.",
+        "note" =>
+            "Followed by Miguel&rsquo;s Bachata and Salsa classes &amp; Latin Dance Party",
     ],
     [
         "day" => "Sunday",
-        "name" => "Bachata",
+        "name" => "Rotating Latin Dance",
         "instructor" => "Miguel",
         "time" => "6:00 PM &ndash; 7:00 PM",
         "price" => 10,
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "Feel the passion and rhythm of Bachata. Learn the basic steps and how to connect with your partner on the dance floor. A great way to meet new people in a low-pressure environment.",
+            "Feel the passion and rhythm of Latin dance. Learn the basic steps and feel how to connect with your partner on the dance floor. We rotate styles, so you&rsquo;ll learn a new one every week. A great way to meet new people and have fun in a low-pressure environment.",
         "note" => "Followed by Salsa class &amp; Latin Dance Party",
     ],
     [
@@ -60,8 +62,8 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "Ignite your confidence with high-energy Salsa. Learn the fundamental steps and turns of this popular Latin dance. No partner needed!",
-        "note" => "Followed by Latin Dance Party",
+            "Ignite your confidence with Miguel&rsquo;s high-energy Salsa classes. You&rsquo;ll learn the fundamental steps and turns of this popular Latin dance. Our lessons are perfect for new dancers who want to move with rhythm and style. No partner is needed!",
+        "note" => "Followed by Miguel&rsquo;s Latin Dance Party",
     ],
 
     // ── Monday ──
@@ -74,8 +76,9 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "Explore the intricate, elegant world of Argentine Tango with Fatcat owner and World Dance Champion Terry Schmoyer. Learn to connect with your partner and move with poise and grace.",
-        "note" => null,
+            "Explore the intricate, elegant world of Argentine Tango. You&rsquo;ll learn how to connect with your partner and move with poise and grace. A great way to master a challenging and beautiful dance. With Fatcat Ballroom owner and Argentine Tango World Champion Terry Schmoyer.",
+        "note" =>
+            "Followed by Chad, Marie &amp; Vladi&rsquo;s American Ballroom classes",
     ],
     [
         "day" => "Monday",
@@ -86,7 +89,7 @@ $classes = [
         "price_label" => '$10',
         "level" => "Beginner",
         "description" =>
-            "Get to know the friendly and social style of American Ballroom. Perfect for dancers who want to learn classic dances and feel comfortable on any dance floor. A different dance every month.",
+            "Get to know the friendly and social style of American Ballroom. Two hours, two classes. Perfect for dancers of all levels who want to learn classic dances and feel comfortable on any dance floor. Every month a different dance.",
         "note" => "Currently featuring Waltz",
     ],
     [
@@ -98,7 +101,7 @@ $classes = [
         "price_label" => '$10',
         "level" => "Intermediate",
         "description" =>
-            "Build on the basics and develop your American Ballroom technique with more advanced patterns and styling. A different dance every month.",
+            "Build on the basics and develop your American Ballroom technique with more advanced patterns and styling. Every month a different dance.",
         "note" => "Currently featuring Waltz",
     ],
     [
@@ -124,8 +127,8 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "A fun, high-energy class to learn the fundamentals of East Coast Swing. Great for meeting people and learning to move to upbeat music.",
-        "note" => "Followed by Swing Dance Party",
+            "Get ready to move to some upbeat tunes! A fun, high-energy way to learn the fundamentals of this popular dance. The lesson is perfect for all levels and is a great way to meet people.",
+        "note" => "Followed by Keith&rsquo;s Swing Dance Party",
     ],
 
     // ── Wednesday ──
@@ -138,7 +141,7 @@ $classes = [
         "price_label" => '$10',
         "level" => "Beginner",
         "description" =>
-            "Learn the elegant technique and style of International Ballroom. Sophisticated steps and movements to get you ready for the competition floor or a night out. A different dance every month.",
+            "Ready to dance like a pro? This class focuses on the elegant technique and style of International Ballroom. Learn sophisticated steps and movements in a variety of dances that will get you ready for the competition floor or a night out. Every month a different dance.",
         "note" => "Currently featuring Waltz",
     ],
     [
@@ -150,12 +153,12 @@ $classes = [
         "price_label" => '$10',
         "level" => "Intermediate",
         "description" =>
-            "Advance your International Ballroom technique with more complex patterns and refined styling. A different dance every month.",
+            "Advance your International Ballroom technique with more complex patterns and refined styling. Every month a different dance.",
         "note" => "Currently featuring Waltz",
     ],
     [
         "day" => "Wednesday",
-        "name" => "International Ballroom &ndash; Guided Practice",
+        "name" => "International Ballroom &ndash; Guided Practice/Dance Party",
         "instructor" => "Roseann &amp; Bob",
         "time" => "8:00 PM",
         "price" => 5,
@@ -176,26 +179,27 @@ $classes = [
         "price_label" => '$10',
         "level" => "All Levels",
         "description" =>
-            "No partner needed! Learn a variety of popular line dances in this fun, upbeat class. Great exercise, cool moves, and new friends.",
-        "note" => null,
+            "No partner needed! In this fun, upbeat class, you&rsquo;ll learn a variety of popular line dances. It&rsquo;s a great way to get some exercise, learn some cool moves, and make new friends.",
+        "note" =>
+            "Followed by West Coast Swing classes &amp; Swing Dance Party",
     ],
     [
         "day" => "Friday",
         "name" => "West Coast Swing &ndash; Beginners",
-        "instructor" => "GPSDC &amp; Zechariah",
+        "instructor" => "Tina French&rsquo;s GPSDC &amp; Zechariah",
         "time" => "7:00 PM &ndash; 7:45 PM",
         "price" => 10,
         "price_label" => '$10 member &middot; $15 non-member',
         "level" => "Beginner",
         "description" =>
-            "Learn the smooth, modern style of West Coast Swing with the Greater Phoenix Swing Dance Club. Great for getting comfortable dancing to a variety of music.",
+            "Learn the smooth, modern style of West Coast Swing with the Greater Phoenix Swing Dance Club (GPSDC). These classes will teach you the basics of this popular dance, often seen in clubs and social events. It&rsquo;s a great way to get comfortable dancing to a variety of music and get out on the social floor!",
         "note" =>
-            "GPSDC membership pricing applies. Followed by Swing Dance Party.",
+            "GPSDC membership pricing applies. Followed by GPSDC&rsquo;s Swing Dance Party.",
     ],
     [
         "day" => "Friday",
         "name" => "West Coast Swing &ndash; Intermediate",
-        "instructor" => "GPSDC &amp; Zechariah",
+        "instructor" => "Tina French&rsquo;s GPSDC &amp; Zechariah",
         "time" => "7:45 PM &ndash; 8:30 PM",
         "price" => 10,
         "price_label" => '$10 member &middot; $15 non-member',
@@ -203,7 +207,7 @@ $classes = [
         "description" =>
             "Take your West Coast Swing further with more advanced patterns, musicality, and connection. Build on the basics and get ready for the social floor.",
         "note" =>
-            "GPSDC membership pricing applies. Followed by Swing Dance Party.",
+            "GPSDC membership pricing applies. Followed by GPSDC&rsquo;s Swing Dance Party.",
     ],
 ]; ?>
 

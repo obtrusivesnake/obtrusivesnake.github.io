@@ -40,7 +40,7 @@ $nav_links = [
                 <a href="tel:6023247119" class="text-sm text-stone-500 hover:text-white transition-colors">
                     (602) 324-7119
                 </a>
-                <a href="#book" class="text-[13px] font-semibold tracking-wide px-6 py-2.5 rounded bg-[#c9a96e] hover:bg-[#d4b87d] text-stone-950 transition-colors">
+                <a href="/classes.php" class="text-[13px] font-semibold tracking-wide px-6 py-2.5 rounded bg-[#c9a96e] hover:bg-[#d4b87d] text-stone-950 transition-colors">
                     Book Online
                 </a>
             </div>
@@ -72,7 +72,7 @@ $nav_links = [
         <?php endforeach; ?>
         <hr class="border-white/[0.06] !my-4">
         <a href="tel:6023247119" class="block text-stone-400 py-3 text-base">(602) 324-7119</a>
-        <a href="#book"
+        <a href="/classes.php"
            class="block text-center font-semibold py-3.5 rounded tracking-wide mt-2 bg-[#c9a96e] text-stone-950"
            onclick="closeMenu()">
             Book Online

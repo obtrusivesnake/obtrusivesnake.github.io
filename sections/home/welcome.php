@@ -4,7 +4,7 @@
 
 <section class="py-20 sm:py-28 px-4">
     <div class="max-w-3xl mx-auto text-center">
-        <div class="w-12 h-px bg-[#c9a96e] mx-auto mb-8"></div>
+        <img src="/assets/cat_icon.svg" alt="" class="w-12 h-12 mx-auto mb-4">
         <h2 class="font-display text-3xl sm:text-4xl text-white mb-8 font-normal leading-snug">
             Welcome to Fatcat Ballroom &amp; Dance Company
         </h2>
