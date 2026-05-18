@@ -1,3 +1,3 @@
 # fatcat
 
-Fatcat Ballroom & Dance Company website mockup
+Fatcat Ballroom & Dance Company website redesign
